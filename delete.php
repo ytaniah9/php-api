@@ -7,4 +7,4 @@ echo '<script>
 alert("Datamu Berhasil Dihapus");
 location="index.php?"
 </script>';
-?>v
+?>
