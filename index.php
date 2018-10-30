@@ -34,7 +34,7 @@
       <td><?php echo $baris_data['level']; ?></td>
       <td><?php echo $baris_data['fullname']; ?></td>
       <td>
-      <a class="edit" href="edit.php?id=<?php echo $baris_data['id']; ?>">Edit</a> |
+      <a class="edit" href="edit.php?id=<?php echo $baris_data['id']; ?>">Ubah</a> |
       <a class="hapus" href="delete.php?id=<?php echo $baris_data['id']; ?>">Hapus</a>
       </td>
     </tr>
